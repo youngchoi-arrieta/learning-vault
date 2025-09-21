@@ -8,9 +8,9 @@ study_sidebar:
     children:
       - title: "일본 전기주임기술자"
         url: /study/engineering/denken/
-      - title: "5급 기술고시"
+      - title: "5급 기술고시 전기직"
         url: /study/engineering/gisulgosi/
-      - title: "국립대 편입학"
+      - title: "국립대 편입학 전형"
         url: /study/engineering/univtransfer/
   - title: "Physics"
     url: /study/physics/	

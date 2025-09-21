@@ -1,5 +1,5 @@
 ---
-title: "5급 기술고시"
+title: "5급 기술고시 전기직"
 permalink: /study/engineering/gisulgosi/
 layout: single
 sidebar:
