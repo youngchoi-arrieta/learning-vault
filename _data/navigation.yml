@@ -1,0 +1,16 @@
+main:
+  - title: "Study"
+    url : /study/
+
+study_sidebar:
+  - title: "전기공학 시험 문제풀이"
+    url: /study/engineering/
+    children:
+      - title: "일본 전기주임기술자"
+        url: /study/engineering/denken/
+      - title: "5급 기술고시"
+        url: /study/engineering/gisulgosi/
+      - title: "국립대 편입학"
+        url: /study/engineering/univtransfer/
+  - title: "Physics"
+    url: /study/physics/	
