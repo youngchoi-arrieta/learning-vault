@@ -10,6 +10,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.4.1"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "jekyll-remote-theme"
+gem "jekyll-include-cache"
 # gem "minimal-mistakes-jekyll"
 gem "jekyll-seo-tag"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
