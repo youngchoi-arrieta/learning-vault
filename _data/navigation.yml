@@ -6,14 +6,15 @@ study_sidebar:
   - title: "Engineering"
     url: /study/engineering/
     children:
-      - title: 전기공학 국가자격시험 풀이(Korean)
+      - title: "전기공학 국가자격시험 풀이 (Korean)"
         url: /study/engineering/EEexam/
-      - title: EE Projects
+      - title: "EE Projects"
         url: /study/engineering/EEprojects/
+
   - title: "Physics"
     url: /study/physics/
     children:
-      - title: Lecture notes & Tutorials
+      - title: "Lecture notes & Tutorials"
         url: /study/physics/lecturenotes/
-      - title: PhD qualifying exams
-        url: /study/physics/qual/		
+      - title: "PhD qualifying exams"
+        url: /study/physics/qual/	
