@@ -1,8 +1,8 @@
 main:
   - title: "Study"
-    url : /study/
- - title : "Research"
-    url : /research/
+    url: /study/
+  - title: "Research"
+    url: /research/
 
 study_sidebar:
   - title: "Engineering"
