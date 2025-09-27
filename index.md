@@ -1,86 +1,43 @@
 ---
-
 title: "The Learning Vault"
-
 layout: splash
-
 permalink: /
 
-
-
 header:
-
-&nbsp; overlay\_color: "#333"   # 배경색만 지정
-
-&nbsp; overlay\_filter: "0.3"
-
-&nbsp; caption: "Choi Young's Study \& Research Archive"
-
+  overlay_color: "#333"   # 배경색만 지정
+  overlay_filter: "0.3"
+  caption: "Choi Young's Study & Research Archive"
 excerpt: "Engineering • Physics • Mathematics"
 
-
-
 actions:
+  - label: "📘 Study"
+    url: "/study/"
+    btn_class: "btn--primary"
+  - label: "🔬 Research"
+    url: "/research/"
+    btn_class: "btn--primary"
+  - label: "🎓 Education"
+    url: "/education/"
+    btn_class: "btn--primary"
 
-&nbsp; - label: "Study"
+feature_row:
+  - title: "Engineering"
+    excerpt: "EE exams, projects, and applied studies."
+    url: "/study/engineering/"
+    btn_label: "Explore"
+    btn_class: "btn--primary"
 
-&nbsp;   url: "/study/"
+  - title: "Physics"
+    excerpt: "Lecture notes, tutorials, and qualifying exam prep."
+    url: "/study/physics/"
+    btn_label: "Explore"
+    btn_class: "btn--primary"
 
-&nbsp;   btn\_class: "btn--primary"
-
-&nbsp; - label: "Research"
-
-&nbsp;   url: "/research/"
-
-&nbsp;   btn\_class: "btn--primary"
-
-&nbsp; - label: "Education"
-
-&nbsp;   url: "/education/"
-
-&nbsp;   btn\_class: "btn--primary"
-
-
-
-feature\_row:
-
-&nbsp; - title: "Engineering"
-
-&nbsp;   excerpt: "EE exams, projects, and applied studies."
-
-&nbsp;   url: "/study/engineering/"
-
-&nbsp;   btn\_label: "Explore"
-
-&nbsp;   btn\_class: "btn--primary"
-
-
-
-&nbsp; - title: "Physics"
-
-&nbsp;   excerpt: "Lecture notes, tutorials, and qualifying exam prep."
-
-&nbsp;   url: "/study/physics/"
-
-&nbsp;   btn\_label: "Explore"
-
-&nbsp;   btn\_class: "btn--primary"
-
-
-
-&nbsp; - title: "Research"
-
-&nbsp;   excerpt: "Peer-reviewed publications and journal club."
-
-&nbsp;   url: "/research/"
-
-&nbsp;   btn\_label: "Explore"
-
-&nbsp;   btn\_class: "btn--primary"
-
+  - title: "Research"
+    excerpt: "Peer-reviewed publications and journal club."
+    url: "/research/"
+    btn_label: "Explore"
+    btn_class: "btn--primary"
 ---
 
-
-
-{% include feature\_row %}
-
+{% include feature_row %}
