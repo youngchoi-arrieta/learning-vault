@@ -7,8 +7,8 @@ sidebar:
   nav: "study_sidebar"
 ---
 
-## 2018 Fall Quantum mechanics lectura notes on the perturbation theories
+## Lecture notes on Quantum mechanics 
+2018 Fall Undergraduate Quantum mechanic II lecture notes
 
-
-## 2015 Fall Applied Physics Tutorial
-
+## Lab tutorial
+2015 Fall Applied Physics Tutorial

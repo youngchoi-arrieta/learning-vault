@@ -7,7 +7,7 @@ sidebar:
   nav: "study_sidebar"
 ---
 
-## 2018 In preparation
+## In preparation
 
 
 
