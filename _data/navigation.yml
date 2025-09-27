@@ -8,5 +8,14 @@ study_sidebar:
     children:
       - title: 전기공학 국가자격시험 풀이(Korean)
         url: /study/engineering/EEexam/
+    children:
+      - title: EE Projects
+        url: /study/engineering/EEprojects/
   - title: "Physics"
-    url: /study/physics/	
+    url: /study/physics/
+    children:
+      - title: Lecture notes & Tutorials
+        url: /study/engineering/lecturenotes/
+    children:
+      - title: PhD qualifying exams
+        url: /study/engineering/qual/		
