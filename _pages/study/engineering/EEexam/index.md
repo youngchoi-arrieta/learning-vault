@@ -55,4 +55,6 @@ Note. 문제 유형이 지나치게 중복되는 문제의 솔루션은 작성�
 (No solutions for problems with excessively repetitive types)
 
 
-## 인도 GATE (Electrical Engineering) (준비중)
+### 인도 GATE (Electrical Engineering) (준비중)
+
+기출문제 원문 출처 : http://ndl.iitkgp.ac.in/cd_document/gate/gate/ee
