@@ -3,6 +3,8 @@ main:
     url: /study/
   - title: "Research"
     url: /research/
+  - title: "Education"
+    url: /education/
 
 study_sidebar:
   - title: "Engineering"
@@ -24,3 +26,5 @@ study_sidebar:
 research_sidebar:
   - title: "Peer-reviewed research"
     url: /research/journal/
+  - title: "Journal club"
+    url: /research/journalclub/
