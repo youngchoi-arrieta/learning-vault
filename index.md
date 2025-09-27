@@ -10,32 +10,32 @@ header:
 excerpt: "Engineering • Physics • Mathematics"
 
 actions:
-  - label: "📘 Study"
+  - label: "Study"
     url: "/study/"
     btn_class: "btn--primary"
-  - label: "🔬 Research"
+  - label: "Research"
     url: "/research/"
     btn_class: "btn--primary"
-  - label: "🎓 Education"
+  - label: "Education"
     url: "/education/"
     btn_class: "btn--primary"
 
 feature_row:
-  - title: "Engineering"
-    excerpt: "EE exams, projects, and applied studies."
-    url: "/study/engineering/"
-    btn_label: "Explore"
-    btn_class: "btn--primary"
-
-  - title: "Physics"
-    excerpt: "Lecture notes, tutorials, and qualifying exam prep."
-    url: "/study/physics/"
+  - title: "Study"
+    excerpt: "My study on Engineering and Physics"
+    url: "/study/"
     btn_label: "Explore"
     btn_class: "btn--primary"
 
   - title: "Research"
-    excerpt: "Peer-reviewed publications and journal club."
+    excerpt: "My Peer-reviewed research and journal clubs"
     url: "/research/"
+    btn_label: "Explore"
+    btn_class: "btn--primary"
+
+  - title: "Education"
+    excerpt: "Topical Essays written for korean university entrance exams"
+    url: "/education/"
     btn_label: "Explore"
     btn_class: "btn--primary"
 ---
