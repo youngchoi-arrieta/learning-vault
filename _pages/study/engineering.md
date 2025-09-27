@@ -1,11 +1,10 @@
 ---
-title: "전기공학 시험 문제풀이"
+title: "Engineering"
 permalink: /study/engineering/
 layout: single
 sidebar:
   nav: "study_sidebar"
 ---
 
-
-Engineering study notes will go here.
+Here I assemble my study notes for Electrical engineering and mechatronics.
 
