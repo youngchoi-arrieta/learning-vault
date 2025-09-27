@@ -1,6 +1,8 @@
 main:
   - title: "Study"
     url : /study/
+ - title : "Research"
+    url : /research/
 
 study_sidebar:
   - title: "Engineering"
@@ -17,4 +19,8 @@ study_sidebar:
       - title: "Lecture notes & Tutorials"
         url: /study/physics/lecturenotes/
       - title: "PhD qualifying exams"
-        url: /study/physics/qual/	
+        url: /study/physics/qual/
+
+research_sidebar:
+  - title: "Peer-reviewed research"
+    url: /research/journal/
