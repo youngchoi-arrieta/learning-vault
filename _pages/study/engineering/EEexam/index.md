@@ -39,7 +39,7 @@ sidebar:
 1. 회로이론 (Circuit analysis)
 - 2025 : 
 - 2024 : [Download]( /learning-vault/assets/pdf/gisulgosi_EE_circuitanalysis_2024.pdf )
-- 2023 : 
+- 2023 : [Download]( /learning-vault/assets/pdf/gisulgosi_EE_circuitanalysis_2023.pdf )
 
 2. 전자기학 (Electromagnetics)
 - 2025 : 
