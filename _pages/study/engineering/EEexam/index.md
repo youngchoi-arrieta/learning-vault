@@ -37,7 +37,7 @@ sidebar:
 (Solution Manual for the Second Stage of the Grade 5 National Technical Civil Service Examination - Electrical Engineering) 
 
 1. 회로이론 (Circuit analysis)
-- 2025 : 
+- 2025 : [Download]( /learning-vault/assets/pdf/gisulgosi_EE_circuitanalysis_2025.pdf )
 - 2024 : [Download]( /learning-vault/assets/pdf/gisulgosi_EE_circuitanalysis_2024.pdf )
 - 2023 : [Download]( /learning-vault/assets/pdf/gisulgosi_EE_circuitanalysis_2023.pdf )
 
