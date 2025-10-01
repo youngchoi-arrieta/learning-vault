@@ -24,6 +24,8 @@ study_sidebar:
         url: /study/physics/lecturenotes/
       - title: "PhD qualifying exams"
         url: /study/physics/qual/
+      - title: "Topical essays on Physics"
+        url: /study/physics/physessay/
 
 research_sidebar:
   - title: "Peer-reviewed research"
