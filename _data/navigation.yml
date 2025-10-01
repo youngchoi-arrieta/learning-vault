@@ -12,6 +12,8 @@ study_sidebar:
     children:
       - title: "전기공학 국가자격시험 풀이 (Korean)"
         url: /study/engineering/EEexam/
+      - title: "EE Summary notes"
+        url: /study/engineering/EEnotes/
       - title: "EE Projects"
         url: /study/engineering/EEprojects/
 
