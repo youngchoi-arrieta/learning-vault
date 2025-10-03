@@ -26,6 +26,8 @@ study_sidebar:
         url: /study/physics/qual/
       - title: "Topical essays on Physics"
         url: /study/physics/physessay/
+  - title: "Mental health"
+    url: /study/psychoanalysis/
 
 research_sidebar:
   - title: "Peer-reviewed research"
