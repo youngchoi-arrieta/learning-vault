@@ -10,18 +10,17 @@ sidebar:
 
 전세계의 전기공학 분야 국가자격시험들을 풀이합니다.  
 
-
-### 1. 일본 전기주임기술자 자격시험 문제풀이집
+### 1. 일본 전기주임기술자 1종 자격시험 문제풀이집
 (Solution Manual for the Japan National Licensed Chief Electrical Engineer Examination (電気主任技術者試験))
 
 일본어 원문 기출문제 출처 : https://www.shiken.or.jp/chief/first/qa/
 
-1. 1차시험 이론 부문: 회로이론 (Circuit analysis)
+1. 1종 1차시험 이론 부문: 회로이론 (Circuit analysis)
 - 2025 : 
 - 2024 :
 - 2023 : 
 
-2. 1차시험 이론 부문 : 전자기학 (Electromagnetics)
+2. 1종 1차시험 이론 부문 : 전자기학 (Electromagnetics)
 - 2025 : 
 - 2024 : [Download]( /learning-vault/assets/pdf/denken_1st_grade_Electromagnetics_2024.pdf )
 - 2023 : [Download]( /learning-vault/assets/pdf/denken_1st_grade_Electromagnetics_2023.pdf )
