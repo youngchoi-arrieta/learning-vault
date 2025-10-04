@@ -27,6 +27,8 @@ sidebar:
 ### 2. 한국 5급 기술고시 전기직렬 2차시험 문제풀이집
 (Solution Manual for the Second Stage of the Grade 5 National Technical Civil Service Examination - Electrical Engineering) 
 
+기출문제 출처 : https://www.gosi.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000137
+
 1. 회로이론 (Circuit analysis)
 - 2025 : [Download]( /learning-vault/assets/pdf/gisulgosi_EE_circuitanalysis_2025.pdf )
 - 2024 : [Download]( /learning-vault/assets/pdf/gisulgosi_EE_circuitanalysis_2024.pdf )
@@ -35,7 +37,7 @@ sidebar:
 2. 전자기학 (Electromagnetics)
 - 2025 : [Download]( /learning-vault/assets/pdf/gisulgosi_EE_electromagnetics_2025.pdf )
 - 2024 : [Download]( /learning-vault/assets/pdf/gisulgosi_EE_electromagnetics_2024.pdf )
-- 2023 : 
+- 2023 : [Download]( /learning-vault/assets/pdf/gisulgosi_EE_electromagnetics_2023.pdf )
 
 
 ### 3. 한국 경북대 및 부산대 전기공학과 편입학 전형 기출문제 풀이집 
