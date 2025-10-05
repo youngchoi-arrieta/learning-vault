@@ -22,7 +22,7 @@ study_sidebar:
     children:
       - title: "Lecture notes & Tutorials"
         url: /study/physics/lecturenotes/
-      - title: "PhD qualifying exams"
+      - title: "MS entrance or PhD qualifying exams"
         url: /study/physics/qual/
       - title: "Topical essays on Physics"
         url: /study/physics/physessay/
