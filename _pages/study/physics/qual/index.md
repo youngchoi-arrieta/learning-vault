@@ -26,6 +26,6 @@ sidebar:
 
 ### 2. Colombia University of industrial Santander(UIS). dept. of Physics.
 - [Classical Mechanics]( /learning-vault/assets/physics_exams/MS_UIS/2025-2020_MS_UIS_Classical_Mechanics.pdf )
-- [Electrodynamics]( /learning-vault/assets/physics_exams/MS_utokyo/2025-2020_MS_UIS_Electrodynamics.pdf )
-- [Quantum Mechanics]( /learning-vault/assets/physics_exams/MS_utokyo/2025-2020_MS_UIS_Quantum_Mechanics.pdf )
-- [Thermal and Statistical Mechanics]( /learning-vault/assets/physics_exams/MS_utokyo/2025-2020_MS_UIS_Thermal_and_Statistical_Physics.pdf )
+- [Electrodynamics]( /learning-vault/assets/physics_exams/MS_UIS/2025-2020_MS_UIS_Electrodynamics.pdf )
+- [Quantum Mechanics]( /learning-vault/assets/physics_exams/MS_UIS/2025-2020_MS_UIS_Quantum_Mechanics.pdf )
+- [Thermal and Statistical Mechanics]( /learning-vault/assets/physics_exams/MS_UIS/2025-2020_MS_UIS_Thermal_and_Statistical_Physics.pdf )
