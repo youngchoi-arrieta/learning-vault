@@ -4,6 +4,4 @@ permalink: /education/
 layout: single
 ---
 
-
-In preparation
-
+## In preparation

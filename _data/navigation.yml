@@ -41,3 +41,11 @@ research_sidebar:
     url: /research/journal/
   - title: "Journal club"
     url: /research/journalclub/
+
+education_sidebar:
+  - title: "고등수학칼럼"
+    url: /education/mathedu/
+  - title: "고등과학칼럼"
+    url: /education/sciedu/
+  - title: "Undergraduate Physics"
+    url: /education/gradphysics/
