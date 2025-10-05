@@ -26,6 +26,13 @@ study_sidebar:
         url: /study/physics/qual/
       - title: "Topical essays on Physics"
         url: /study/physics/physessay/
+  - title: "Mathematics"
+    url: /study/math/
+    children:
+      - title: "University Entrance Exams"
+        url: /study/math/univ_entrance_math/
+      - title: "Undergraduate level Exams"
+        url: /study/math/undergraduate_math/
   - title: "Mental health"
     url: /study/psychoanalysis/
 
