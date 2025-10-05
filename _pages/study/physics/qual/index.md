@@ -38,6 +38,6 @@ sidebar:
 
 ### 3. Colombia Univ. of industrial Santander(UIS). Physics. 
 - [Classical Mechanics/2025-2020]( /learning-vault/assets/physics_exams/MS_UIS/2025-2020_MS_UIS_Classical_Mechanics.pdf )
-- [Electrodynamics]( /learning-vault/assets/physics_exams/MS_UIS/2025-2020_MS_UIS_Electrodynamics.pdf )
-- [Quantum Mechanics]( /learning-vault/assets/physics_exams/MS_UIS/2025-2020_MS_UIS_Quantum_Mechanics.pdf )
-- [Thermal and Statistical Mechanics]( /learning-vault/assets/physics_exams/MS_UIS/2025-2020_MS_UIS_Thermal_and_Statistical_Physics.pdf )
+- [Electrodynamics/2025-2020]( /learning-vault/assets/physics_exams/MS_UIS/2025-2020_MS_UIS_Electrodynamics.pdf )
+- [Quantum Mechanics/2025-2020]( /learning-vault/assets/physics_exams/MS_UIS/2025-2020_MS_UIS_Quantum_Mechanics.pdf )
+- [Thermal and Statistical Mechanics/2025-2020]( /learning-vault/assets/physics_exams/MS_UIS/2025-2020_MS_UIS_Thermal_and_Statistical_Physics.pdf )
