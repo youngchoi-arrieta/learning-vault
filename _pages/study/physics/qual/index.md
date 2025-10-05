@@ -19,10 +19,10 @@ sidebar:
 
 ## MS Entrance Examinations
 
-### 1. Japan UTokyo. (Applied Physics)
-- [2025]( /learning-vault/assets/physics_exams/MS_utokyo/appliedphysics/2025_ap_exam_eng.pdf )
-- [2024]( /learning-vault/assets/physics_exams/MS_utokyo/appliedphysics/2024_ap_exam_eng.pdf )
-- [2023]( /learning-vault/assets/physics_exams/MS_utokyo/appliedphysics/2023_ap_exam_eng.pdf )
+### 1. Japan UTokyo. 
+- [2025/Applied Physics]( /learning-vault/assets/physics_exams/MS_utokyo/appliedphysics/2025_ap_exam_eng.pdf )
+- [2024/Applied Physics]( /learning-vault/assets/physics_exams/MS_utokyo/appliedphysics/2024_ap_exam_eng.pdf )
+- [2023/Applied Physics]( /learning-vault/assets/physics_exams/MS_utokyo/appliedphysics/2023_ap_exam_eng.pdf )
 
 ### 2. Colombia University of industrial Santander(UIS). 
 - [Classical Mechanics]( /learning-vault/assets/physics_exams/MS_UIS/2025-2020_MS_UIS_Classical_Mechanics.pdf )
