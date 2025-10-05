@@ -2,6 +2,7 @@
 title: "University Entrance level Exams"
 permalink: /study/math/univ_entrance_math/
 layout: single
+toc : true
 sidebar:
   nav: "study_sidebar"
 ---
