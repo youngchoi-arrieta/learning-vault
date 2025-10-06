@@ -6,7 +6,8 @@ sidebar:
   nav: "study_sidebar"
 ---
 
-### Summary report
+### Reports
+- [2025-10-06]( /learning-vault/assets/CBT/Report_why_I_collapsed_06-10-25.pdf)
 - [2025-10-03]( /learning-vault/assets/CBT/Report_Summary_03-10-25.pdf )
 
 ### Raw notes
