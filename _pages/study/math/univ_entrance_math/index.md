@@ -8,9 +8,8 @@ sidebar:
 ---
 
 ## 1. Japan UTokyo
-- 2025 : [이과]( /learning-vault/assets/math_exams/utokyo/univ_entrance/2025_utokyo_entrance_math_이과.pdf ) / [문과]( /learning-vault/assets/math_exams/utokyo/univ_entrance/2025_utokyo_entrance_math_문과.pdf )
-- 2024 : [이과]( /learning-vault/assets/math_exams/utokyo/univ_entrance/2024_utokyo_entrance_math_이과.pdf ) / [문과]( /learning-vault/assets/math_exams/utokyo/univ_entrance/2024_utokyo_entrance_math_문과.pdf )
-- 2023 : [이과]( /learning-vault/assets/math_exams/utokyo/univ_entrance/2023_utokyo_entrance_math_이과.pdf ) / [문과]( /learning-vault/assets/math_exams/utokyo/univ_entrance/2023_utokyo_entrance_math_문과.pdf )
+- 2025 [Past paper - Source Link](https://www.u-tokyo.ac.jp/ja/admissions/undergraduate/e01_07_25.html) : [My Solution]( /learning-vault/assets/math_exams/utokyo/univ_entrance/UTokyo_univ_entrance_math_2025.pdf)
+
 
 ## 2. 한국 수리논술
 
