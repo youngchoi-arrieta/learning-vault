@@ -8,7 +8,7 @@ sidebar:
 ---
 
 ## 1. Japan UTokyo
-- 2025 [Past paper - Source Link](https://www.u-tokyo.ac.jp/ja/admissions/undergraduate/e01_07_25.html) : [My Solution]( /learning-vault/assets/math_exams/utokyo/univ_entrance/UTokyo_univ_entrance_math_2025.pdf)
+- 2025 : [Past paper - Source Link](https://www.u-tokyo.ac.jp/ja/admissions/undergraduate/e01_07_25.html) / [My Solution]( /learning-vault/assets/math_exams/utokyo/univ_entrance/UTokyo_univ_entrance_math_2025.pdf)
 
 
 ## 2. 한국 수리논술
