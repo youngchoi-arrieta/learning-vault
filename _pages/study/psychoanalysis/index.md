@@ -17,3 +17,6 @@ sidebar:
 - [2025-10-09]( /learning-vault/assets/CBT/Reports_2025_10_09_protected.pdf)
 - [2025-10-06]( /learning-vault/assets/CBT/Reports_From_analysis_to_philosophy_06-10-25_protected.pdf)
 - [2025-10-04]( /learning-vault/assets/CBT/Reports_Shame_Rumination_04-10-25.pdf )
+
+### Golden advices
+- [2025-10-09]( /learning-vault/assets/CBT/Golden_advices_2025_10_09.pdf)
