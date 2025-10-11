@@ -19,4 +19,5 @@ sidebar:
 - [2025-10-04]( /learning-vault/assets/CBT/Reports_Shame_Rumination_04-10-25.pdf )
 
 ### Golden advices
+- [2025-10-11]( /learning-vault/assets/CBT/Golden_advices_Bookcopy_collection_1.pdf)
 - [2025-10-09]( /learning-vault/assets/CBT/Golden_advices_2025_10_09.pdf)

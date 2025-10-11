@@ -20,8 +20,8 @@ sidebar:
 
 2. 1종 1차시험 이론 부문 : 전자기학 (Electromagnetics)
 - 2025 : 
-- 2024 : [Download]( /learning-vault/assets/pdf/denken_1st_grade_Electromagnetics_2024.pdf )
-- 2023 : [Download]( /learning-vault/assets/pdf/denken_1st_grade_Electromagnetics_2023.pdf )
+- [2024]( /learning-vault/assets/pdf/denken_1st_grade_Electromagnetics_2024.pdf )
+- [2023]( /learning-vault/assets/pdf/denken_1st_grade_Electromagnetics_2023.pdf )
 
 
 ### 2. 한국 5급 기술고시 전기직렬 2차시험 문제풀이집
@@ -29,25 +29,17 @@ sidebar:
 
 기출문제 출처 : https://www.gosi.kr/
 
-1. 회로이론 (Circuit analysis)
-- 2025 : [Download]( /learning-vault/assets/pdf/gisulgosi_EE_circuitanalysis_2025.pdf )
-- 2024 : [Download]( /learning-vault/assets/pdf/gisulgosi_EE_circuitanalysis_2024.pdf )
-- 2023 : [Download]( /learning-vault/assets/pdf/gisulgosi_EE_circuitanalysis_2023.pdf )
+1. 회로이론 (Circuit analysis) : [2025]( /learning-vault/assets/pdf/gisulgosi_EE_circuitanalysis_2025.pdf ) / [2024]( /learning-vault/assets/pdf/gisulgosi_EE_circuitanalysis_2024.pdf ) / [2023]( /learning-vault/assets/pdf/gisulgosi_EE_circuitanalysis_2023.pdf )
 
-2. 전자기학 (Electromagnetics)
-- 2025 : [Download]( /learning-vault/assets/pdf/gisulgosi_EE_electromagnetics_2025.pdf )
-- 2024 : [Download]( /learning-vault/assets/pdf/gisulgosi_EE_electromagnetics_2024.pdf )
-- 2023 : [Download]( /learning-vault/assets/pdf/gisulgosi_EE_electromagnetics_2023.pdf )
+2. 전자기학 (Electromagnetics) : [2025]( /learning-vault/assets/pdf/gisulgosi_EE_electromagnetics_2025.pdf ) / [2024]( /learning-vault/assets/pdf/gisulgosi_EE_electromagnetics_2024.pdf ) / [2023]( /learning-vault/assets/pdf/gisulgosi_EE_electromagnetics_2023.pdf )
 
 
 ### 3. 한국 경북대 및 부산대 전기공학과 편입학 전형 기출문제 풀이집 
 (Past Entrance Examination Solutions for Transfer Admission to the Dept. of EE., Kyungpook & Pusan National University) 
 
-1. 회로이론 year 2025-2020 (Circuit analysis)
-[Download]( /learning-vault/assets/pdf/Univ_Transfer_pastpapers_circuit_theory.pdf )
+1. 회로이론 year 2025-2020 (Circuit analysis) : [Download]( /learning-vault/assets/pdf/Univ_Transfer_pastpapers_circuit_theory.pdf )
 
-2. 전자기학 year 2025-2020 (Electromagnetics)
-[Download]( /learning-vault/assets/pdf/Univ_Transfer_pastpapers_electromagnetics.pdf )
+2. 전자기학 year 2025-2020 (Electromagnetics) : [Download]( /learning-vault/assets/pdf/Univ_Transfer_pastpapers_electromagnetics.pdf )
 
 Note. 문제 유형이 지나치게 중복되는 문제의 솔루션은 작성하지 않음. 
 (No solutions for problems with excessively repetitive types)
