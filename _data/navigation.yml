@@ -42,8 +42,13 @@ study_sidebar:
         url: /study/life_profession/profession/
 
 research_sidebar:
-  - title: "Peer-reviewed research"
+  - title: "My research"
     url: /research/journal/
+    children:
+      - title: "Peer-reviewed research"
+        url: /research/journal/
+      - title: "Toy projects"
+        url: /research/toys/
   - title: "Journal club"
     url: /research/journalclub/
 

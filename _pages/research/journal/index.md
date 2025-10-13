@@ -6,6 +6,9 @@ sidebar:
   nav: "research_sidebar"
 ---
 
+### My peer reviewed research
 
-In preparation
+
+
+### Related recent research of other groups
 
