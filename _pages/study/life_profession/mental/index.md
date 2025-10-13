@@ -14,6 +14,7 @@ sidebar:
 - [Template]( /learning-vault/assets/CBT/Template_psychoanalysis.pdf)
 
 ### Raw notes
+- [2025-10-12 Black lens on my profession - Part 2]( /learning-vault/assets/CBT/Reports_2025_10_12_part_2_protected.pdf)
 - [2025-10-12 Black lens on my profession - Part 1]( /learning-vault/assets/CBT/Reports_2025_10_12_part_1_protected.pdf)
 - [2025-10-09 Confronting my superego]( /learning-vault/assets/CBT/Reports_2025_10_09_protected.pdf)
 - [2025-10-06 From analysis to creation]( /learning-vault/assets/CBT/Reports_From_analysis_to_philosophy_06-10-25_protected.pdf)
