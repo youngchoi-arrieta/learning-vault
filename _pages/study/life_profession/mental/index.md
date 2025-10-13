@@ -1,6 +1,6 @@
 ---
 title: "Mental health"
-permalink: /study/psychoanalysis/
+permalink: /study/life_profession/mental/
 layout: single
 sidebar:
   nav: "study_sidebar"

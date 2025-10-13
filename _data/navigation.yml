@@ -33,8 +33,13 @@ study_sidebar:
         url: /study/math/univ_entrance_math/
       - title: "Undergraduate level Exams"
         url: /study/math/undergraduate_math/
-  - title: "Mental health"
-    url: /study/psychoanalysis/
+  - title: "Life and Profession"
+    url: /study/life_profession/
+    children:
+      - title: "Mental Health"
+        url: /study/life_profession/mental/
+      - title: "Profession"
+        url: /study/life_profession/profession/
 
 research_sidebar:
   - title: "Peer-reviewed research"
@@ -49,3 +54,4 @@ education_sidebar:
     url: /education/sciedu/
   - title: "Undergraduate Physics"
     url: /education/gradphysics/
+
