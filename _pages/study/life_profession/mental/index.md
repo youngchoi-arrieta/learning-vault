@@ -16,9 +16,9 @@ sidebar:
 ### Raw notes
 - [2025-10-12 Black lens on my profession - Part 2]( /learning-vault/assets/CBT/Reports_2025_10_12_part_2_protected.pdf)
 - [2025-10-12 Black lens on my profession - Part 1]( /learning-vault/assets/CBT/Reports_2025_10_12_part_1_protected.pdf)
-- [2025-10-09 Confronting my superego]( /learning-vault/assets/CBT/Reports_2025_10_09_protected.pdf)
+- [2025-10-09 Establishing a new self-value system]( /learning-vault/assets/CBT/Reports_2025_10_09_protected.pdf)
 - [2025-10-06 From analysis to creation]( /learning-vault/assets/CBT/Reports_From_analysis_to_philosophy_06-10-25_protected.pdf)
-- [2025-10-04 Shame and Rumination]( /learning-vault/assets/CBT/Reports_Shame_Rumination_04-10-25.pdf )
+- [2025-10-04 Shame and Rumination - Voice of my superego]( /learning-vault/assets/CBT/Reports_Shame_Rumination_04-10-25.pdf )
 
 ### Golden advices
 - [2025-10-11 Excerpts from books]( /learning-vault/assets/CBT/Golden_advices_Bookcopy_collection_1.pdf)
