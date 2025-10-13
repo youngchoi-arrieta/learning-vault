@@ -9,7 +9,7 @@ sidebar:
 ## Topical Notes on Electromagnetics
 - An Easy way to memorize Div, grad, curl in the cylindrical or spherical coordinates  :
 - Levi-civita practice for easy proof of vector identities : 
-- Theory on the plane electromagnetic wave propagation : [Download]( /learning-vault/assets/pdf/topicalnotes_EM_wave.pdf )
+- Theory on the plane electromagnetic wave propagation : [Download]( /learning-vault/assets/EE_exams/topicalnotes_EM_wave.pdf )
 
 
 
