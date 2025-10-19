@@ -30,7 +30,7 @@ sidebar:
 
 ### 3. 한국 전기기사 취약유형 기출문제집 (2025-2023)
 
-1. [필기] 회로이론 및 제어공학: [Circuit analysis & Control engineering]( /learning-vault/assets/EE_exams/전기기사_취약유형_기출문제집_1_회로이론과_제어공학.pdf )
+1. [필기] 회로이론 및 제어공학: [Circuit & Control]( /learning-vault/assets/EE_exams/전기기사_취약유형_기출문제집_1_회로이론과_제어공학.pdf )
 2. [필기] 전자기학 :  [Electromagnetics]( /learning-vault/assets/EE_exams/전기기사_취약유형_기출문제집_2_전자기학.pdf)
 
 ### 4. 한국 경북대 및 부산대 전기/전자공학과 편입학 전형 기출문제 풀이집 
