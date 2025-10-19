@@ -36,11 +36,11 @@ sidebar:
 ### 4. 한국 경북대 및 부산대 전기/전자공학과 편입학 전형 기출문제 풀이집 
 (Past Entrance Examination Solutions for Transfer Admission to the Dept. of EE., Kyungpook & Pusan National University) 
 
-1. 회로이론 (전기공학과) year 2025-2020 (Circuit analysis) : [Download]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_circuit_theory.pdf )
-2. 전자기학 (전기공학과) year 2025-2020 (Electromagnetics) : [Download]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_electromagnetics.pdf )
-3. 전자회로 (전자공학과) year 2025-2020 (Electronic circuits) : [Download]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_electronic_circuits.pdf )
-4. 논리회로 (전자공학과) year 2025-2020 (Logic design) : [Download]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_logic_design.pdf )
-5. 프로그래밍 언어 (전자공학과) year 2025-2020 (Programming language) : [Download]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_programming.pdf )
+1. 회로이론 (전기공학과) year 2025-2020 : [Circuit analysis]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_circuit_theory.pdf )
+2. 전자기학 (전기공학과) year 2025-2020 : [Electromagnetics]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_electromagnetics.pdf )
+3. 전자회로 (전자공학과) year 2025-2020 : [Electronic circuits]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_electronic_circuits.pdf )
+4. 논리회로 (전자공학과) year 2025-2020 : [Logic design]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_logic_design.pdf )
+5. 프로그래밍 언어 (전자공학과) year 2025-2020 : [Programming language]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_programming.pdf )
 
 Note. 문제 유형이 지나치게 중복되는 문제의 솔루션은 작성하지 않음. 
 (No solutions for problems with excessively repetitive types)
