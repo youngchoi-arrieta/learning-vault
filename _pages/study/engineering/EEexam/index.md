@@ -40,7 +40,7 @@ sidebar:
 2. 전자기학 (전기공학과) year 2025-2020 : [Electromagnetics]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_electromagnetics.pdf )
 3. 전자회로 (전자공학과) year 2025-2020 : [Electronic circuits]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_electronic_circuits.pdf )
 4. 논리회로 (전자공학과) year 2025-2020 : [Logic design]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_logic_design.pdf )
-5. 프로그래밍 언어 (전자공학과) year 2025-2020 : [Programming language]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_programming.pdf )
+5. 프로그래밍 (전자공학과) year 2025-2020 : [Programming]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_programming.pdf )
 
 Note. 문제 유형이 지나치게 중복되는 문제의 솔루션은 작성하지 않음. 
 (No solutions for problems with excessively repetitive types)
