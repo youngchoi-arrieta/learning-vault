@@ -14,6 +14,7 @@ sidebar:
 - [Template]( /learning-vault/assets/CBT/Template_psychoanalysis.pdf)
 
 ### Raw notes
+- [2025-10-30 What an endless rumination taught me]( /learning-vault/assets/CBT/Reports_2025_10_30_protected.pdf)
 - [2025-10-14 Questions on life]( /learning-vault/assets/CBT/Reports_2025_10_14_protected.pdf)
 - [2025-10-13 Survival ego vs Explorer ego]( /learning-vault/assets/CBT/Reports_2025_10_13_protected.pdf)
 - [2025-10-12 Black lens on my profession - Part 2]( /learning-vault/assets/CBT/Reports_2025_10_12_part_2_protected.pdf)
