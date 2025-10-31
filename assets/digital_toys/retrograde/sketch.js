@@ -314,3 +314,8 @@ function keyPressed() {
   if (key === 'R' || key === 'r') resetSim();
   if (key === 'S' || key === 's') stepOnce();
 }
+
+// ---------------- Resizing ----------------
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+}
