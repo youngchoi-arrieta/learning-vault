@@ -42,15 +42,18 @@ study_sidebar:
         url: /study/life_profession/profession/
 
 research_sidebar:
-  - title: "My research"
+  - title: "Scientific Research"
     url: /research/journal/
     children:
       - title: "Peer-reviewed research"
         url: /research/journal/
-      - title: "Toy projects"
-        url: /research/toys/
-  - title: "Journal club"
-    url: /research/journalclub/
+      - title: "Journal clubs"
+        url: /research/journalclub/
+  - title: "Digital Toys"
+    url: /research/toys/
+    children:
+      - title: "Retrograding motion of a planet"
+        url: /research/toys/retrograde/
 
 education_sidebar:
   - title: "고등수학칼럼"
