@@ -6,7 +6,9 @@ sidebar:
   nav: "research_sidebar"
 ---
 
-### Digital toy, 이 작은 프로젝트를 시작하며...
+### Philosophy. Digital Toy란?
+
+### Manifestó. Digital toy, 이 작은 프로젝트를 시작하며...
 
 - AI를 비롯한 기술의 발전으로 <br>
 안 그래도 빠르게 변화했던 세상이,<br>
