@@ -24,6 +24,7 @@ sidebar:
 - [2025-10-04 Shame and Rumination - Voice of my superego]( /learning-vault/assets/CBT/Reports_Shame_Rumination_04-10-25.pdf )
 
 ### Golden advices
+- [2025-11-01 A Letter from Ko Kil-Dong]( /learning-vault/assets/CBT/Golden_advices_2025_11_01.pdf)
 - [2025-10-31 Depression of the late capitalism]( /learning-vault/assets/CBT/Golden_advices_2025_10_31.pdf)
 - [2025-10-11 Excerpts from books]( /learning-vault/assets/CBT/Golden_advices_Bookcopy_collection_1.pdf)
 - [2025-10-09 Collection of Life Advices]( /learning-vault/assets/CBT/Golden_advices_2025_10_09.pdf)
