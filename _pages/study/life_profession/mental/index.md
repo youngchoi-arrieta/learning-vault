@@ -7,6 +7,7 @@ sidebar:
 ---
 
 ### Reports
+- [2025-11-03 Lessons learned in Sabattical year at Latin America]( /learning-vault/assets/CBT/Reports_Lessons_from_Sabbatical_year.pdf)
 - [2025-10-06 Why I collapsed]( /learning-vault/assets/CBT/Report_why_I_collapsed_06-10-25_protected.pdf)
 - [2025-10-03 Summary of my belief systems]( /learning-vault/assets/CBT/Report_Summary_03-10-25.pdf )
 
