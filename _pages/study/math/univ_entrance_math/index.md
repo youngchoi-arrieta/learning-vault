@@ -11,9 +11,15 @@ sidebar:
 - 2025 : [Past paper - Source Link](https://www.u-tokyo.ac.jp/ja/admissions/undergraduate/e01_07_25.html) / [My Solution]( /learning-vault/assets/math_exams/utokyo/univ_entrance/UTokyo_univ_entrance_math_2025.pdf)
 
 
-## 2. Republic of Korea Yonsei University 
-- [2025 Question Paper]( /learning-vault/assets/math_exams/yonsei/nonsul/2025_nonsul_QP.pdf)
-- [2024 Question Paper]( /learning-vault/assets/math_exams/yonsei/nonsul/2024_nonsul_QP.pdf)
+## 2.1. Republic of Korea Yonsei University (University Entrance)
+- 2025 : [Question Paper]( /learning-vault/assets/math_exams/yonsei/nonsul/2025_nonsul_QP.pdf)
+- 2024 : [Question Paper]( /learning-vault/assets/math_exams/yonsei/nonsul/2024_nonsul_QP.pdf)
+- 2023 : [Question Paper]( /learning-vault/assets/math_exams/yonsei/nonsul/2023_nonsul_QP.pdf)
+
+## 2.2. Republic of Korea Yonsei University (University Transfer)
+- 2025 : [Question Paper]( /learning-vault/assets/math_exams/yonsei/univtransfer/2025_univtransfer_QP.pdf)
+- 2024 : [Question Paper]( /learning-vault/assets/math_exams/yonsei/univtransfer/2024_univtransfer_QP.pdf)
+- 2023 : [Question Paper]( /learning-vault/assets/math_exams/yonsei/univtransfer/2023_univtransfer_QP.pdf)
 
 
 ## 3. UK Cambridge STEP Level 2-3
