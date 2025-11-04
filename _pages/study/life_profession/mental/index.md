@@ -15,6 +15,7 @@ sidebar:
 - [Template]( /learning-vault/assets/CBT/Template_psychoanalysis.pdf)
 
 ### Raw notes
+- [2025-11-04 Career Suicide reviewed as a rebirth]( /learning-vault/assets/CBT/Reports_2025_11_04.pdf)
 - [2025-10-30 What an endless rumination taught me]( /learning-vault/assets/CBT/Reports_2025_10_30_protected.pdf)
 - [2025-10-14 Questions on life]( /learning-vault/assets/CBT/Reports_2025_10_14_protected.pdf)
 - [2025-10-13 Survival ego vs Explorer ego]( /learning-vault/assets/CBT/Reports_2025_10_13_protected.pdf)
