@@ -7,7 +7,8 @@ sidebar:
 ---
 
 ### Philosophy. Digital Toy란?
-
+- [Digital toy 기획서]( /learning-vault/assets/digital_toys/Digital_Toy_Concepting.pdf )
+- [Digital toy 구현 아이디어]
 ### Manifestó. Digital toy, 이 작은 프로젝트를 시작하며...
 
 - AI를 비롯한 기술의 발전으로 <br>
