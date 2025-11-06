@@ -15,7 +15,7 @@ sidebar:
 
 1. 1종 1차시험 이론 부문: 회로이론과 전자회로 (Circuit analysis & Electronic circuits): [2025]( /learning-vault/assets/EE_exams/denken_1st_grade_circuitanalysis_2025.pdf ) / [2024]( /learning-vault/assets/EE_exams/denken_1st_grade_circuitanalysis_2024.pdf ) / [2023]( /learning-vault/assets/EE_exams/denken_1st_grade_circuitanalysis_2023.pdf ) / [2022]( /learning-vault/assets/EE_exams/denken_1st_grade_circuitanalysis_2022.pdf )
 
-2. 1종 1차시험 이론 부문 : 전자기학 (Electromagnetics): [2025]( /learning-vault/assets/EE_exams/denken_1st_grade_Electromagnetics_2025.pdf ) / [2024]( /learning-vault/assets/pdf/denken_1st_grade_Electromagnetics_2024.pdf ) / [2023]( /learning-vault/assets/EE_exams/denken_1st_grade_Electromagnetics_2023.pdf )
+2. 1종 1차시험 이론 부문 : 전자기학 (Electromagnetics): [2025]( /learning-vault/assets/EE_exams/denken_1st_grade_Electromagnetics_2025.pdf ) / [2024]( /learning-vault/assets/EE_exams/denken_1st_grade_Electromagnetics_2024.pdf ) / [2023]( /learning-vault/assets/EE_exams/denken_1st_grade_Electromagnetics_2023.pdf )
 
 
 ### 2. 한국 5급 기술고시 전기직렬 2차시험 문제풀이집
