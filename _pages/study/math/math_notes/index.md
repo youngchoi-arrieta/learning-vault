@@ -11,4 +11,4 @@ sidebar:
 
 
 ### 1. 선형대수학
-- [오답노트 : 종합심화 및 미분류 문제 유형]( /learning-vault/assets/math_notes/univtransfer_linearalgebra_comprehensive.pdf)
+- [오답노트 : 종합심화 및 미분류 문제 유형]( /learning-vault/assets/math_notes/univtransfer/univtransfer_linearalgebra_comprehensive.pdf)
