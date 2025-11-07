@@ -11,18 +11,27 @@ sidebar:
 ## 전자기학 문제 해결의 반사신경(Problem solving reflexes on Electromagnetics)
 
 ### 손풀이와 수식 전개의 반사신경(Mathematical reflexes for Electromagnetism)
-- [An easier way to memorize Div, grad, curl in the cylindrical or spherical coordinates]( /learning-vault/assets/EE_notes/topicalnotes_easy_grad_div_curl.pdf )
-- [Levi-civita symbol : Quick and handy proofs of vector identities]( /learning-vault/assets/EE_notes/topicalnotes_Levicivita.pdf )
+- [An easier way to memorize Div, grad, curl in the cylindrical or spherical coordinates]( /learning-vault/assets/EE_notes/topicalnotes_EM_easy_grad_div_curl.pdf )
+- [Levi-civita symbol : Quick and handy proofs of vector identities]( /learning-vault/assets/EE_notes/topicalnotes_EM_Levicivita.pdf )
 
-### 정전기학(Electrostatistics) 문제 풀이의 반사신경
+### 정전기학(Electrostatistics) 주요 예제 Curation
 - [Image method : Curation of the art of solving Poisson equation]
 
-### 전자기파의 세계 
-- [Theory on the plane electromagnetic wave propagation]( /learning-vault/assets/EE_notes/topicalnotes_EM_wave.pdf )
+### 전자기파 주요 예제 Curation
+- [Theory on the plane electromagnetic wave propagation]( /learning-vault/assets/EE_notes/topicalnotes_EM_plane_wave.pdf )
 
 
-## 전력계통공학 문제 해결의 반사신경(Problem solving reflexes on Power system Analysis)
+## 회로이론 문제 해결의 반사신경(Problem solving reflexes on Circuit Analysis)
+- [Basic Terminologies and Concepts of Circuit Analysis]( /learning-vault/assets/EE_notes/topicalnotes_CA_theoretical_foundation.pdf )
+- [DC circuit analysis techniques]( /learning-vault/assets/EE_notes/topicalnotes_CA_DC_analysis.pdf )
+- [Capacitors, Inductors, and Op-amps]( /learning-vault/assets/EE_notes/topicalnotes_CA_Linear_passive_elements.pdf )
+- [Single phase AC circuit analysis techniques]( /learning-vault/assets/EE_notes/topicalnotes_CA_singlephase_AC.pdf )
+- [Three phase AC circuit analysis techniques]( /learning-vault/assets/EE_notes/topicalnotes_CA_threephase_AC.pdf )
+- [Two port networks](  /learning-vault/assets/EE_notes/topicalnotes_CA_Two_port_networks.pdf )
+
+
+## 전력계통공학 (Power system Analysis)
 
 
 
-## 전기기기 문제 해결의 반사신경(Problem solving reflexes on Electric Machinery)
+## 전기기기 문제 해결의 반사신경(Electric Machinery)
