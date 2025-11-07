@@ -29,6 +29,8 @@ study_sidebar:
   - title: "Mathematics"
     url: /study/math/
     children:
+      - title: "Math Study Notes"
+        url: /study/math/math_notes/
       - title: "University Entrance Exams"
         url: /study/math/univ_entrance_math/
       - title: "Undergraduate level Exams"
