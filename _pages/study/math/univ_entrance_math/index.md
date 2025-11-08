@@ -12,7 +12,7 @@ sidebar:
 
 
 ## 2.1. Republic of Korea Yonsei University (University Entrance)
-- 2025 : [Question Paper]( /learning-vault/assets/math_exams/yonsei/nonsul/2025_nonsul_QP.pdf)
+- 2025 : [Question Paper]( /learning-vault/assets/math_exams/yonsei/nonsul/2025_nonsul_QP.pdf) / [P5 Sol]( /learning-vault/assets/math_exams/yonsei/nonsul/2025_nonsul_My_Solutions_P5.pdf)
 - 2024 : [Question Paper]( /learning-vault/assets/math_exams/yonsei/nonsul/2024_nonsul_QP.pdf)
 - 2023 : [Question Paper]( /learning-vault/assets/math_exams/yonsei/nonsul/2023_nonsul_QP.pdf)
 
