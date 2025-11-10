@@ -32,17 +32,17 @@ sidebar:
 
 ### 3. 한국 전기기사 취약유형 기출문제집 
 
-3.1. [필기] 회로이론 및 제어공학 (2025-2023): [Circuit & Control]( /learning-vault/assets/EE_exams/전기기사_취약유형_기출문제집_1_회로이론과_제어공학.pdf )
-3.2. [필기] 전자기학 (2025-2023):  [Electromagnetics]( /learning-vault/assets/EE_exams/전기기사_취약유형_기출문제집_2_전자기학.pdf)
+3.1. [필기] 회로이론 및 제어공학 (2025-2023): [Circuit & Control]( /learning-vault/assets/EE_exams/전기기사_취약유형_기출문제집_1_회로이론과_제어공학.pdf )<br>
+3.2. [필기] 전자기학 (2025-2023):  [Electromagnetics]( /learning-vault/assets/EE_exams/전기기사_취약유형_기출문제집_2_전자기학.pdf)<br>
 
 ### 4. 한국 경북대 및 부산대 전기/전자공학과 편입학 전형 기출문제 풀이집 
 (Past Entrance Examination Solutions for Transfer Admission to the Dept. of EE., Kyungpook & Pusan National University) 
 
-4.1. 회로이론 (전기공학과) year 2025-2020 : [Circuit analysis]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_circuit_theory.pdf )
-4.2. 전자기학 (전기공학과) year 2025-2020 : [Electromagnetics]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_electromagnetics.pdf )
-4.3. 전자회로 (전자공학과) year 2025-2020 : [Electronic circuits]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_electronic_circuits.pdf )
-4.4. 논리회로 (전자공학과) year 2025-2020 : [Logic design]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_logic_design.pdf )
-4.5. 프로그래밍 (전자공학과) year 2025-2020 : [Programming]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_programming.pdf )
+4.1. 회로이론 (전기공학과) year 2025-2020 : [Circuit analysis]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_circuit_theory.pdf )<br>
+4.2. 전자기학 (전기공학과) year 2025-2020 : [Electromagnetics]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_electromagnetics.pdf )<br>
+4.3. 전자회로 (전자공학과) year 2025-2020 : [Electronic circuits]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_electronic_circuits.pdf )<br>
+4.4. 논리회로 (전자공학과) year 2025-2020 : [Logic design]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_logic_design.pdf )<br>
+4.5. 프로그래밍 (전자공학과) year 2025-2020 : [Programming]( /learning-vault/assets/EE_exams/Univ_Transfer_pastpapers_programming.pdf )<br>
 
 Note. 문제 유형이 지나치게 중복되는 문제의 솔루션은 작성하지 않음. 
 (No solutions for problems with excessively repetitive types)
