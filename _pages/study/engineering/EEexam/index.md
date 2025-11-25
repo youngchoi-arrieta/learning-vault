@@ -19,12 +19,12 @@ sidebar:
 1.2. 1종 1차시험 이론 부문 - 전자기학 (Electromagnetics): <br>
 [2025]( /learning-vault/assets/EE_exams/denken_1st_grade_Electromagnetics_2025.pdf ) / [2024]( /learning-vault/assets/EE_exams/denken_1st_grade_Electromagnetics_2024.pdf ) / [2023]( /learning-vault/assets/EE_exams/denken_1st_grade_Electromagnetics_2023.pdf )
 
-
 1.3. 2종 1차시험 이론 부문 - 회로이론과 전자회로 (Circuit analysis & Electronic circuits):<br>
-[2025]( /learning-vault/assets/EE_exams/denken_2nd_grade_circuitanalysis_2025.pdf ) / [2024]( /learning-vault/assets/EE_exams/denken_2nd_grade_circuitanalysis_2024.pdf )
+[2025]( /learning-vault/assets/EE_exams/denken_2nd_grade_circuitanalysis_2025.pdf ) / [2024]( /learning-vault/assets/EE_exams/denken_2nd_grade_circuitanalysis_2024.pdf ) /
+[2023]( /learning-vault/assets/EE_exams/denken_2nd_grade_circuitanalysis_2023.pdf )
 
 1.4. 2종 1차시험 이론 부문 - 전자기학 (Electromagnetics): <br>
-[2025]( /learning-vault/assets/EE_exams/denken_2nd_grade_Electromagnetics_2025.pdf ) / [2024]( /learning-vault/assets/EE_exams/denken_2nd_grade_Electromagnetics_2024.pdf )
+[2025]( /learning-vault/assets/EE_exams/denken_2nd_grade_Electromagnetics_2025.pdf ) / [2024]( /learning-vault/assets/EE_exams/denken_2nd_grade_Electromagnetics_2024.pdf ) / [2023]( /learning-vault/assets/EE_exams/denken_2nd_grade_Electromagnetics_2023.pdf )
 
 ### 2. 한국 5급 기술고시 전기직렬 2차시험 문제풀이집
 (Solution Manual for the Second Stage of the Grade 5 National Technical Civil Service Examination - Electrical Engineering) 
